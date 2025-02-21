@@ -1,6 +1,6 @@
 # Simple Business Website
 
-A modern and responsive **landing page** built with HTML and CSS.
+A modern and responsive landing page built with HTML and CSS.
 
 ## Features
 ✅ Fully responsive design  
